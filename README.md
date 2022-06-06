@@ -9,6 +9,8 @@ For the general weakly supervised ordinal learning, please refer to the model 'H
 
 
 We appreciate it if you would please cite our original paper if you found the package useful for your work.
+
 The original paper:
+
 Wang, L., D’Angelob, F., ..., Hu, L.S., Li, J. Quantifying Intra-tumoral Genetic Heterogeneity of Glioblastoma toward Precision Medicine using MRI and a Data-inclusive Machine Learning Algorithm. Computer Methods and Programs in Biomedicine. (Under review)
 
